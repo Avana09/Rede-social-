@@ -1,0 +1,8 @@
+{
+  "name": "Inovira",
+  "description": "A modern social network application combining features from popular platforms like Facebook, Instagram, and WhatsApp, powered by AI for an enhanced chat experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
